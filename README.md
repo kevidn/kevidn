@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJS, React & Python**
 
-- 📚 I am currently studying at **Surabaya State University**
+- 📚 I am currently studying at **State University of Surabaya**
 
 - 👨‍💻 All of my projects are available at [-](-)
 
