@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **-**
 
-- 🌱 I’m currently learning **NextJS, React & Python**
+- 🌱 I’m currently learning **React Native & Python**
 
 - 👨‍💻 All of my projects are available at [-](-)
 
