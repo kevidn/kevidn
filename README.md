@@ -38,4 +38,3 @@ With over three years of programming experience, I have extensively learned abou
   
 ![kevidn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevidn&show_icons=true&theme=radical) <br><br>
 ![kevidn github streak](https://github-readme-streak-stats.herokuapp.com/?user=<kevidn>&theme=radical&include_all_commits=true&count_private=true)
-![](https://github-trophies.vercel.app/?username=<kevidn>&rank=S,AAA)
