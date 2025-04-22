@@ -10,7 +10,7 @@ With over three years of programming experience, I have extensively learned abou
 -------------------
 
 ### Contact
-[<a href="https://www.linkedin.com/in/kevin-dzaky-hendratama/">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a>](#)
+[<a href="https://www.linkedin.com/in/kevin-dzaky-hendratama/">![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)(#)(#)
 [<a href="https://www.instagram.com/kevindzd/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)</a>](#)
 [<a href="https://twitter.com/Keviniest/">![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)</a>](#)
 [<a href="https://open.spotify.com/user/31l5hlovv4eo3l6yvw7qva6ku52m?si=a944640c743b4e7e">![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)</a>](#)
