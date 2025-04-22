@@ -1,6 +1,6 @@
 <div align="center">
   
-[https://pixel-profile.vercel.app/api/github-stats?username=<kevidn>&theme=road_trip&pixelate_avatar=false]
+![https://pixel-profile.vercel.app/api/github-stats?username=<kevidn>&theme=road_trip&pixelate_avatar=false]
 
 ## About Me
 A student with a strong curiosity at Universitas Negeri Surabaya, majoring in Informatics. Focused on becoming a software engineer and full-stack developer, with skills in building web and mobile apps using technologies such as HTML5, CSS3, Javascripts, Bootstrap, Django, ReactJS, React Native, MySQL, and PostgreSQL.
