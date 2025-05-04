@@ -39,5 +39,6 @@ With over three years of programming experience, I have extensively learned abou
   
 -------------------
   
-![kevidn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevidn&show_icons=true&theme=radical) <br><br>
+![kevidn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevidn&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevidn&layout=compact&theme=radical&langs_count=20&card_width=340) <br><br>
 ![kevidn github streak](https://github-readme-streak-stats.herokuapp.com/?user=<kevidn>&theme=radical&include_all_commits=true&count_private=true)
